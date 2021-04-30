@@ -1,5 +1,9 @@
 # Getting Started
 
+### utils
+
+`# ./docker_clean_up.sh`
+
 ### amazon/dynamodb-local
 
 https://hub.docker.com/r/amazon/dynamodb-local/
