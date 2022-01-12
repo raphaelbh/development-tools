@@ -1,56 +1,18 @@
-# Getting Started
+# Development Tools
 
-## Setup
+## Overview
+Project to provide tools used in software development.
 
-### Docker
-
-1. Update software repositories
-`# sudo apt-get update`
-
-2. Install docker
-`# sudo apt install docker.io`
-
-3. Start docker
-`# sudo systemctl start docker`
-
-4. Run docker automatically at startup (Optional):
-`# sudo systemctl enable docker`
-
-5. Check Docker Version (Optional)
-`# docker --version`
-
-### Docker Compose
-
-1. Update software repositories
-`# sudo apt-get update`
-
-2. Install docker-compose
-`# sudo apt install docker-compose`
-
-3. Create a daemon file
-`# sudo vim /etc/docker/daemon.json`
-
-4. Insert the content below in the created file (daemon.json)
-`{ "dns": ["8.8.8.8", "8.8.4.4"] }`
-
-
+## Requirements
+- docker: https://www.docker.com/
+- docker-compose: https://docs.docker.com/compose/
 
 ## Tools
+- [localstack](/localstack)
+- [amazon/dynamodb-local](/dynamodb)
+- [sonarqube](/sonarqube)
 
-### utils
+## Utils
 
-`# sudo ./docker_clean_up.sh`
-
-### amazon/dynamodb-local
-
-- https://hub.docker.com/r/amazon/dynamodb-local/
-
-`# sudo docker-compose up`
-
-### sonarqube
-
-- https://hub.docker.com/_/sonarqube
-- https://hub.docker.com/_/postgres
-
-`# sudo docker-compose up`
-
+- Clean docker images, containers, volumes, networks
+`$ sudo ./docker_clean_up.sh`
