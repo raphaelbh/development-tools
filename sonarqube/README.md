@@ -7,9 +7,11 @@ SonarQube is the leading tool for continuously inspecting the Code Quality and S
 - https://hub.docker.com/_/postgres
 
 **Starting** 
+
 `$ docker-compose up`
 
 **Testing**
-url: http://localhost:9000
-user: admin
-pass: admin
+
+- url: http://localhost:9000
+- user: admin
+- pass: admin

@@ -5,7 +5,9 @@ DynamoDB local is a downloadable version of DynamoDB that enables developers to 
 - https://hub.docker.com/r/amazon/dynamodb-local/
 
 **Starting**
+
 `$ docker-compose up`
 
 **Testing**
+
 `$ aws dynamodb list-tables --endpoint-url http://localhost:8000`

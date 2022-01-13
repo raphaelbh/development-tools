@@ -5,8 +5,10 @@ LocalStack provides an easy-to-use test/mocking framework for developing Cloud a
 - https://localstack.cloud/
 - https://hub.docker.com/r/localstack/localstack
 
-**Starting** 
+**Starting**
+
 `$ docker-compose up`
 
 **Testing**
+
 `$ aws dynamodb list-tables --endpoint-url http://localhost:4566`

@@ -14,5 +14,6 @@ Project to provide tools used in software development.
 
 ## Utils
 
-- Clean docker images, containers, volumes, networks
+Clean docker images, containers, volumes, networks
+
 `$ sudo ./docker_clean_up.sh`
