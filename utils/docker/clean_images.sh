@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker image rm -f $(docker images -a -q)
+docker image rm -f $(docker image ls -a -q)
