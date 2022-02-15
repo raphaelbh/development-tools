@@ -24,8 +24,8 @@ $ docker exec --interactive --tty broker kafka-console-consumer --bootstrap-serv
 ```
 
 ## Tools
-- [cluster](/cluster)
-- [platform](/platform)
+- [cluster](/kafka/cluster)
+- [platform](/kafka/platform)
 
 ## Reference
 - https://developer.confluent.io/quickstart/kafka-docker/
