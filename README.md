@@ -1,7 +1,6 @@
 # Development Tools
 
 [![Project Status](https://img.shields.io/static/v1?label=project%20status&message=complete&color=success&style=flat-square)](#)
-[![GitHub last commit](https://img.shields.io/github/last-commit/raphaelbh/readme-template?style=flat-square)](#)
 
 Project to provide tools used in software development.
 
