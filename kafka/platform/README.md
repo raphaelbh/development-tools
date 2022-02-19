@@ -1,4 +1,4 @@
-# confluent platform
+# Confluent Platform
 
 Use Confluent Platform and a few SQL statements to build a real-time application that processes example data streams.
 

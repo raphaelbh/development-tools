@@ -1,4 +1,4 @@
-# sonarqube
+# Sonarqube
 
 SonarQube is the leading tool for continuously inspecting the Code Quality and Security of your codebases, and guiding development teams during Code Reviews.
 

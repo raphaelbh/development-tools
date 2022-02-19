@@ -1,4 +1,4 @@
-# amazon/dynamodb-local
+# Dynamodb
 
 DynamoDB local is a downloadable version of DynamoDB that enables developers to develop and test applications using a version of DynamoDB running in your own development environment.
 

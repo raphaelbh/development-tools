@@ -11,7 +11,7 @@ Project to provide tools used in software development.
 
 ## Tools
 - [localstack](/localstack)
-- [amazon/dynamodb-local](/dynamodb)
+- [dynamodb](/dynamodb)
 - [sonarqube](/sonarqube)
 - [kafka](/kafka)
 

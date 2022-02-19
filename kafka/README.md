@@ -1,4 +1,4 @@
-# kafka
+# Kafka
 
 Kafka is an open source software which provides a framework for storing, reading and analysing streaming data. Being open source means that it is essentially free to use and has a large network of users and developers who contribute towards updates, new features and offering support for new users.
 

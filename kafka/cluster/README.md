@@ -1,6 +1,6 @@
-# kafka cluster
+# Kafka Cluster
 
-Example of a kafka cluster.
+Example of kafka cluster.
 
 ## Requirements
 
