@@ -16,6 +16,7 @@ Project to provide tools used in software development.
 
 ## Utils
 - [docker](/utils/docker)
+- [git](/utils/git)
 
 ## Feedback
 
