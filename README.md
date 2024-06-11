@@ -4,20 +4,9 @@
 
 Project to provide tools used in software development.
 
-## Requirements
-
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-## Tools
-- [localstack](/localstack)
-- [dynamodb](/dynamodb)
-- [sonarqube](/sonarqube)
-- [kafka](/kafka)
-
 ## Utils
 - [docker](/utils/docker)
 - [git](/utils/git)
-- [aws](/utils/aws)
 
 ## Feedback
 
