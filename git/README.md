@@ -1,7 +1,25 @@
 # Git Utils
 
-## Connect local repository with gitHub remote repository
+### Git install
+```bash
+# install
+$ sudo apt install git
 
+# check
+$ git --version
+```
+
+### Git config
+```bash
+# config
+$ git config --global user.name $username
+$ git config --global user.email $email
+
+# check
+$ git config --list
+```
+
+### Useful commands
 ```bash
 # create local repository
 $ git init
@@ -20,6 +38,7 @@ $ git push -u origin main
 # delete local master branch
 $ git branch -D master
 ```
+
 
 ## Feedback
 
