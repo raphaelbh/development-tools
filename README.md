@@ -5,6 +5,7 @@
 Project to provide tools used in software development.
 
 ## Utils
+- [terminal](/terminal)
 - [docker](/docker)
 - [git](/git)
 
