@@ -8,6 +8,7 @@ Project to provide tools used in software development.
 - [terminal](/terminal)
 - [docker](/docker)
 - [git](/git)
+- [git](/terraform)
 
 ## Feedback
 

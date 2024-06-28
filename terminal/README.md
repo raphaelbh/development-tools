@@ -28,6 +28,7 @@ echo -e "zinit light zsh-users/zsh-completions" >> ~/.zshrc
 # restart terminal
 ```
 
+
 ## Feedback
 
 If you have any feedback, please contact me at raphaeldias.ti@gmail.com

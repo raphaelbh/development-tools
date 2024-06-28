@@ -52,6 +52,7 @@ $ docker image build -t $docker_image_name:$tag $project_path
 $ docker push $docker_image_name:$tag
 ```
 
+
 ## Feedback
 
 If you have any feedback, please contact me at raphaeldias.ti@gmail.com
